@@ -1,1 +1,3 @@
-console.log("Simple 2 v1.4 (Extensions test log)")
+console.log("Simple 2 start")
+window.codioIDE.guides.addScript("https://pogostatus-martinarmani.codio.io/simple-script.js")
+console.log("Simple 2 end")
