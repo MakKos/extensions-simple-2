@@ -12,4 +12,4 @@
 // }
 // delayedLog();
 
-window.codioIDE.guides.addScript("https://pogostatus-martinarmani.codio.io/simple-script.js")
+window.codioIDE.guides.addScript("https://missionjustice-bingoking.codio.io/script1.js")
